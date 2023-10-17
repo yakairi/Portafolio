@@ -206,7 +206,7 @@
   .card__img_three {
     width: 100%;
     height: 200px;
-    background-image: url(../images/epkar.jpg);
+    background-image: url(images/epkar.jpg);
     background-size: cover;
   }
   .card__title {
