@@ -151,9 +151,12 @@
       <img class="contact-section__img" src="./images/yo.jpeg" alt="">
       <div class="contact-form">
         <h4>Enviame un mensaje...</h4>
-        <form class="form-group">
-          <input type="text" placeholder="Nombre" class="input">
+        <form action="https://formsubmit.co/yakigonzalezzamora@gmail.com" method="POST" form-group">
+          <label for="name">Nombre:</label>
+          <input type="text" name ="name" placeholder="Nombre" class="input">
+          <label for="name">Email:</label>
           <input type="email" placeholder="Email" class="input">
+          <label for="msg">Mensaje:</label>
           <textarea name="message" placeholder="Dejame tu mensaje aqui..."></textarea>
           <button type="submit" class="btn-submit">Enviar Mensaje</button>
         </form>
