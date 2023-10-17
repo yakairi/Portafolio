@@ -200,13 +200,13 @@
   .card__img_two {
     width: 100%;
     height: 200px;
-    background-image: url(../images/epkar.jpeg);
+    background-image: url(../images/Coffee-Break.png);
     background-size: cover;
   }
   .card__img_three {
     width: 100%;
     height: 200px;
-    background-image: url(../images/Coffee-Break.png);
+    background-image: url(../images/epkar.jpeg);
     background-size: cover;
   }
   .card__title {
